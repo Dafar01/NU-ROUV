@@ -5,8 +5,9 @@
    <img width="596" height="842" src="https://github.com/user-attachments/assets/64320918-b146-4193-8704-49b4713897db">
 </p>
 
+This GitHub repo is for the published paper *NU - A Marine Life Monitoring and Exploration Submarine*. This milestone was also our capstone/graduation project at the American University of Kuwait (AUK).
+
 # Description
-This GitHub repo is for the NU ROUV published paper (LINK). The repo includes all the 3D files, .ino files for both circuits, machine learning pipeline code, images of the ROUV, and a video showcasing the ROUV during testing.
 NU is a marine life monitoring ROUV/submarine that is equipped with a machine learning pipeline capable of identifying and classifying 5 fish species in kuwait seas, while simultaneously flagging any species outside of the dataset as unknowns. NU also aims to cut down costs on ocean exploration expeditions, reduce disturbance and damage on marine life, and limit health risks imposed on divers due to diving.
 
 ## Key Features
@@ -53,3 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Ahmed Hassan
 - Faisal Hassan
 - Abdullah AlGohary
+
+## Supervisors
+- Dr. Mounib Khanafer
+- Eng. Ali Behiry
