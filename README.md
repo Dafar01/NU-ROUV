@@ -2,7 +2,7 @@
 
 For reference, ROUV stands for **"Remotely Operated Underwater Vehicle"**
 <p align="center">
-   <img width="596" height="842" src="https://github.com/user-attachments/assets/64320918-b146-4193-8704-49b4713897db">
+   <img src="https://github.com/user-attachments/assets/396c50a7-c8b1-4357-bbc6-5a27fbbe5a96">
 </p>
 
 This GitHub repo is for the to be published paper *NU - A Marine Life Monitoring and Exploration Submarine*. This milestone was also our capstone/graduation project at the American University of Kuwait (AUK).
@@ -41,7 +41,7 @@ Below is a list of all the electrical components needed to implement NU:
 ![Submarine Circuit](https://github.com/user-attachments/assets/e3dc443c-12c3-4df1-b6e7-6528d77c3b82)
 
 ### 3D Designs
-All the 3D STL files are available in the [STL Files](/STL_Files) folder, and the 3D CAD files are available in the [CAD Files](/CAD_Files) folder.
+All the 3D STL files are available in the [STL Files](/STL_Files) folder.
 
 #### Disclaimers
 - For symmetry, 4 of the [Acrylic Tube Holder](/3D_Designs/Acrylic_Tube_Holder.STL) were printed. The acrylic tube used was roughly 30cms long and 10cms in diameter.
