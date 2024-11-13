@@ -28,7 +28,28 @@ Below is a list of all the electrical components needed to implement NU:
 - **Two Peristaltic Pump Motors**
 - **60 FPS 1080p Bullet Camera**
 - **4-channel 12V Relay Modules**
+- **Infrared Relay**
+- **Fuse**
 - **Scuba Diving Flashlights**
 
 ### Circuits
 #### Controller Circuit
+![Controller Circuit](https://github.com/user-attachments/assets/f7fccdf3-a923-4bd4-8e6a-0bee59289756)
+
+#### Submarine Circuit
+![Submarine Circuit](https://github.com/user-attachments/assets/e3dc443c-12c3-4df1-b6e7-6528d77c3b82)
+
+### 3D Prints
+All the 3D prints are available in the "3D Designs" folder.
+
+## Software
+The software implementation of both circuits and the machine learning pipeline are avaialble in the "Code" folder.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Authors
+- Tarek Dafar
+- Ahmed Hassan
+- Faisal Hassan
+- Abdullah AlGohary
