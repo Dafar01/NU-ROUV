@@ -21,7 +21,7 @@ NU is a marine life monitoring ROUV/submarine that is equipped with a machine le
 ### Electrical Components
 Below is a list of all the electrical components needed to implement NU:
 - **Arduino UNO R3**
-- **LoRa SX1278 Module** (depends on your region)
+- **LoRa SX1278 433Mhz Module** (depends on your region)
 - **11.1V 6000mAh Li-Po Battery**
 - **Two 12V Brushless DC Waterproofed Motors**
 - **Two 45A ESCs**
@@ -49,7 +49,7 @@ All the 3D STL files are available in the [STL Files](/STL_Files) folder.
 - The pillars designed in [the bottom part of the controller](/3D_Designs/Controller_Bottom.STL) are weak. Consider adding a fillet between the bottom of the case and the pillars, and between the top pillars and bottom pillars.
 
 ## Software
-The software implementation of both circuits and the machine learning pipeline are avaialble in the "Code" folder.
+The software implementation of both circuits and the machine learning pipeline are avaialble in the [Code](/Code) folder.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
