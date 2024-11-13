@@ -41,7 +41,7 @@ Below is a list of all the electrical components needed to implement NU:
 ![Submarine Circuit](https://github.com/user-attachments/assets/e3dc443c-12c3-4df1-b6e7-6528d77c3b82)
 
 ### 3D Prints
-All the 3D prints are available in the "3D Designs" folder.
+All the 3D prints are available in the [3D Designs](3D Designs) folder.
 
 ## Software
 The software implementation of both circuits and the machine learning pipeline are avaialble in the "Code" folder.
