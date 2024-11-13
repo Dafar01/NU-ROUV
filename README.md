@@ -1,6 +1,6 @@
 # NU ROUV
 
-** ROUV stands for "Remotely Operated Underwater Vehicle **
+**ROUV stands for "Remotely Operated Underwater Vehicle**
 <p align="center">
    <img width="596" height="842" src="https://github.com/user-attachments/assets/64320918-b146-4193-8704-49b4713897db">
 </p>
