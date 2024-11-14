@@ -52,7 +52,7 @@ All the 3D STL files are available in the [STL Files](/STL_Files) folder.
 The software implementation of both circuits and the machine learning pipeline are avaialble in the [Code](/Code) folder.
 
 ## Demo
-Demo videos of the motors operating as well as a montage of the NU's functionalities is available in the [Videos](/Videos) folder.
+Demo videos of the motors operating as well as a montage of the NU's functionalities is available in the [Video](/Video) folder.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
