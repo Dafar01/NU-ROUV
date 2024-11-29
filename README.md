@@ -28,7 +28,7 @@ Below is a list of all the electrical components needed to implement NU:
 - **Four Water Pump Motors**
 - **Two Peristaltic Pump Motors**
 - **60 FPS 1080p Bullet Camera**
-- **Two 4-channel 12V Relay Modules**
+- **Two 4-channel 5V Relay Modules**
 - **Infrared Relay**
 - **Fuse**
 - **Scuba Diving Flashlights**
