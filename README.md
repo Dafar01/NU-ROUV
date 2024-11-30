@@ -41,18 +41,18 @@ Below is a list of all the electrical components needed to implement NU:
 ![Submarine Circuit](https://github.com/user-attachments/assets/e3dc443c-12c3-4df1-b6e7-6528d77c3b82)
 
 ### 3D Designs
-All the 3D STL files are available in the [STL Files](/STL_Files) folder.
+All the 3D STL files are available in the [STL files](/STL_files) folder.
 
 #### Disclaimers
-- For symmetry, 4 of the [Acrylic Tube Holder](/3D_Designs/Acrylic_Tube_Holder.STL) were printed. The acrylic tube used was roughly 30cms long and 10cms in diameter.
-- A waterproof wire-gland is used with the [End Cap](/3D_Designs/End_Cap.STL) to pass the motor wires from inside the acrylic tube to the outside, hence the opening in the middle.
-- The pillars designed in [the bottom part of the controller](/3D_Designs/Controller_Bottom.STL) are weak. Consider adding a fillet between the bottom of the case and the pillars, and between the top pillars and bottom pillars.
+- For symmetry, 4 of the [Acrylic Tube Holder](/STL_files/Acrylic_Tube_Holder.STL) were printed. The acrylic tube used was roughly 30cms long and 10cms in diameter.
+- A waterproof wire-gland is used with the [End Cap](/STL_files/End_Cap.STL) to pass the motor wires from inside the acrylic tube to the outside, hence the opening in the middle.
+- The pillars designed in [the bottom part of the controller](/STL_files/Controller_Bottom.STL) are weak. Consider adding a fillet between the bottom of the case and the pillars, and between the top pillars and bottom pillars.
 
 ## Software
-The software implementation of both circuits and the machine learning pipeline are avaialble in the [Code](/Code) folder.
+The software implementation of both circuits and the machine learning pipeline are avaialble in the [code](/code) folder.
 
 ## Demo
-Demo videos of the motors operating as well as a montage of the NU's functionalities is available in the [Video](/Video) folder.
+Demo videos of the motors operating as well as a montage of the NU's functionalities is available in the [videos](/videos) folder.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
