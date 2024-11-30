@@ -5,7 +5,7 @@ For reference, ROUV stands for **"Remotely Operated Underwater Vehicle"**
    <img src="https://github.com/user-attachments/assets/396c50a7-c8b1-4357-bbc6-5a27fbbe5a96">
 </p>
 
-This GitHub repo is for the to be published paper *NU - A Marine Life Monitoring and Exploration Submarine*. This milestone was also our capstone/graduation project at the American University of Kuwait (AUK).
+This GitHub repo is for the to-be published paper *NU - A Marine Life Monitoring and Exploration Submarine System*. This milestone was also our capstone/graduation project at the American University of Kuwait (AUK).
 
 # Description
 NU is a marine life monitoring ROUV/submarine that is equipped with a machine learning pipeline capable of identifying and classifying 5 fish species in kuwait seas, while simultaneously flagging any species outside of the dataset as unknowns. NU also aims to cut down costs on ocean exploration expeditions, reduce disturbance and damage on marine life, and limit health risks imposed on divers due to diving.
